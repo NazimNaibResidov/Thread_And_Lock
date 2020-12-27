@@ -1,0 +1,16 @@
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\bin\Debug\MonyTansfer.exe.config
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\bin\Debug\MonyTansfer.exe
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\bin\Debug\MonyTansfer.pdb
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\bin\Debug\EntityFramework.dll
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\bin\Debug\EntityFramework.xml
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\obj\Debug\MonyTansfer.csprojAssemblyReference.cache
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\obj\Debug\MonyTansfer.Form1.resources
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\obj\Debug\MonyTansfer.Properties.Resources.resources
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\obj\Debug\MonyTansfer.csproj.GenerateResource.cache
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\obj\Debug\MonyTansfer.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\obj\Debug\MonyTansfer.csproj.CopyComplete
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\obj\Debug\MonyTansfer.exe
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\obj\Debug\MonyTansfer.pdb
+C:\Users\resid\source\repos\MonyTansfer\MonyTansfer\obj\Debug\MonyTansfer.Migrations.fisted.resources
